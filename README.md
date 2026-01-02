@@ -53,3 +53,8 @@ git clone https://github.com/gui-fofinho/gerenciador-teatro-matrizes.git
 2. Acesse a pasta do projeto:
 ```bash
 cd gerenciador-teatro-matrizes
+
+
+3. Execute o arquivo principal:
+```bash
+python sistema_reserva_matrizes.py
