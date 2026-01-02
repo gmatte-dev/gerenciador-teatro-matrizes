@@ -50,3 +50,6 @@ O objetivo do projeto é praticar **lógica de programação**, **uso de matrize
 ```bash
 git clone https://github.com/gui-fofinho/gerenciador-teatro-matrizes.git 
 
+2. Acesse a pasta do projeto:
+```bash
+cd gerenciador-teatro-matrizes
