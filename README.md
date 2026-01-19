@@ -48,7 +48,7 @@ O objetivo do projeto é praticar **lógica de programação**, **uso de matrize
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/gmatte-dev/gerenciador-teatro-matrizes.git 
+git clone https://github.com/seu-usuario/gerenciador-teatro-matrizes.git 
 ```
 2. Acesse a pasta do projeto:
 ```bash
